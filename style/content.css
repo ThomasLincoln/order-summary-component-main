@@ -1,0 +1,57 @@
+.content{
+    padding: 10%;
+    text-align: center;
+}
+.title{
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+    font-size: 1.6pc;
+    padding-bottom: 2pc;
+}
+.paragraph{
+    color:hsl(224, 23%, 55%);
+    font-size: 1pc;
+    line-height: 1.5pc;
+    padding: 0% 4%;
+}
+.plan-option{
+    margin-top: 3pc;
+    display: flex;
+    align-items: center;
+    margin-bottom: 3pc;
+}
+.options{
+    margin-right: 3pc;
+    margin-left: 1pc;
+}
+.option-h1{
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+    font-size: 0.9pc;
+}
+.option-h2{
+    color:hsl(224, 23%, 55%);
+    font-size: 0.9pc;
+    padding-top: 0.4pc;
+}
+.change{
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 1pc;
+}
+
+.button{
+    background-color:hsl(245, 75%, 52%);
+    color: rgb(247, 245, 241);
+    font-weight: 700;
+    padding: 7% 0%;
+    border-radius: 0.8pc;
+    margin-bottom: 1.7pc;
+    box-shadow: 0px 10px 50px 0.1pc hsl(224, 58%, 87%);
+}
+
+.subbutton{
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+}
