@@ -1,0 +1,46 @@
+/* max-width  */
+@media screen and (min-width: 900px) {
+	body {
+        background-image: url(/images/pattern-background-desktop.svg);
+        background-size: 100% 50%;
+	}
+    .main{
+        width: 25vw;
+        height: 80vh;
+        margin: 4% 35%;
+    }
+    .image{
+        width: 25vw;
+    }
+    .plan-option{
+        margin-top: 1pc;
+        margin-bottom: 2pc;
+        margin-left: 0.7pc;
+    }
+    .title{
+        padding-bottom: 1pc;
+        font-size: 1.4pc;
+    }
+    .paragraph{
+        font-size: 0.8pc;
+    }
+    .button{
+        font-size: 0.7pc;
+        padding: 5% 0%;
+    }
+    .subbutton{
+        font-size: 0.7pc;
+    }
+    .change{
+        font-size: 0.7pc;
+    }
+    .option-h1{
+        font-size: 0.7pc;
+    }
+    .option-h2{
+        font-size: 0.7pc;
+    }
+    .icon-music{
+        width: 40px;
+    }
+}
