@@ -55,3 +55,14 @@
     color: hsl(224, 23%, 55%);
     font-weight: 700;
 }
+.button:hover{
+    background-color: hsl(224, 23%, 55%);
+    cursor: pointer;
+}
+.change:hover{
+    cursor: pointer;
+    color: hsl(224, 23%, 55%);
+}
+.subbutton:hover{
+    cursor: pointer;
+}
