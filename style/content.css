@@ -65,4 +65,5 @@
 }
 .subbutton:hover{
     cursor: pointer;
+    color: black;
 }
